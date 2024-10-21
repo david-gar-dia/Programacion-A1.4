@@ -1,0 +1,14 @@
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\bin\Debug\net8.0\ex04.exe
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\bin\Debug\net8.0\ex04.deps.json
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\bin\Debug\net8.0\ex04.runtimeconfig.json
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\bin\Debug\net8.0\ex04.dll
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\bin\Debug\net8.0\ex04.pdb
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\obj\Debug\net8.0\ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\obj\Debug\net8.0\ex04.AssemblyInfoInputs.cache
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\obj\Debug\net8.0\ex04.AssemblyInfo.cs
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\obj\Debug\net8.0\ex04.csproj.CoreCompileInputs.cache
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\obj\Debug\net8.0\ex04.dll
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\obj\Debug\net8.0\refint\ex04.dll
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\obj\Debug\net8.0\ex04.pdb
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\obj\Debug\net8.0\ex04.genruntimeconfig.cache
+C:\Users\kcrei\source\repos\Programacion A1.4\ex04\obj\Debug\net8.0\ref\ex04.dll

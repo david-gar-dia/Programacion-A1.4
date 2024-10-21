@@ -1,0 +1,14 @@
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\bin\Debug\net8.0\ex_prueba.exe
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\bin\Debug\net8.0\ex_prueba.deps.json
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\bin\Debug\net8.0\ex_prueba.runtimeconfig.json
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\bin\Debug\net8.0\ex_prueba.dll
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\bin\Debug\net8.0\ex_prueba.pdb
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\obj\Debug\net8.0\ex_prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\obj\Debug\net8.0\ex_prueba.AssemblyInfoInputs.cache
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\obj\Debug\net8.0\ex_prueba.AssemblyInfo.cs
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\obj\Debug\net8.0\ex_prueba.csproj.CoreCompileInputs.cache
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\obj\Debug\net8.0\ex_prueba.dll
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\obj\Debug\net8.0\refint\ex_prueba.dll
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\obj\Debug\net8.0\ex_prueba.pdb
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\obj\Debug\net8.0\ex_prueba.genruntimeconfig.cache
+C:\Users\kcrei\source\repos\Programacion A1.4\ex_prueba\obj\Debug\net8.0\ref\ex_prueba.dll

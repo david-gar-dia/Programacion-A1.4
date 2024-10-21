@@ -1,0 +1,14 @@
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\bin\Debug\net8.0\ex30.exe
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\bin\Debug\net8.0\ex30.deps.json
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\bin\Debug\net8.0\ex30.runtimeconfig.json
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\bin\Debug\net8.0\ex30.dll
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\bin\Debug\net8.0\ex30.pdb
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\obj\Debug\net8.0\ex30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\obj\Debug\net8.0\ex30.AssemblyInfoInputs.cache
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\obj\Debug\net8.0\ex30.AssemblyInfo.cs
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\obj\Debug\net8.0\ex30.csproj.CoreCompileInputs.cache
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\obj\Debug\net8.0\ex30.dll
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\obj\Debug\net8.0\refint\ex30.dll
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\obj\Debug\net8.0\ex30.pdb
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\obj\Debug\net8.0\ex30.genruntimeconfig.cache
+C:\Users\kcrei\source\repos\Programacion A1.4\ex30\obj\Debug\net8.0\ref\ex30.dll
